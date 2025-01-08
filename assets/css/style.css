@@ -1,0 +1,13 @@
+.container{
+    width: 300px;
+    height: 150px;
+    background-color: red;
+    text-align: center;
+    line-height: 150px;
+    font-size: 50px;
+}
+
+#image{
+    display: none;
+    width: 300px;
+}
